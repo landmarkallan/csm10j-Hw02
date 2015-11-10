@@ -1,0 +1,4 @@
+interface Debt()
+{
+	public getDebtAmount();
+}
