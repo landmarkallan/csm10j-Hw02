@@ -1,0 +1,4 @@
+interface Asset()
+{
+	public getAssetValue();
+}
